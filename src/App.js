@@ -1,22 +1,20 @@
-import "./App.css";
-import background from "./img/modern-6097781_1920.jpg";
+import React from "react";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Testimonials from "./components/Testimonials";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <nav className="flex">
-        <div className="navbar">
-          {" "}
-          <b className="list">About Me</b>
-          <b className="list">Projects</b>
-          <b className="list">Blog</b>
-          <b className="list">Contact</b>
-        </div>
-      </nav>
-      <div className="image"></div>
-      <h1 className="header">ASUMAN AYDIN</h1>
-    </div>
+    <main className="text-gray-400 bg-gray-900 body-font">
+      <Navbar />
+      <About />
+      <Projects />
+      <Skills />
+      <Testimonials />
+      <Contact />
+    </main>
   );
 }
-
-export default App;
