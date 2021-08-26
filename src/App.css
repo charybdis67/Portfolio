@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+
+.flex {
+  padding-top: 10px;
+  position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: aliceblue;
+	color: black;
+	transition: 0.3s;
+}
+.navbar{
+  width: 600px;
+  background-color: aliceblue;
+  margin-right: 400px;
+}
+
+.list{
+  display: inline;
+  margin-right: 50px;
+  font-size: medium;
+}
+
+.image{
+  background-image: url('./img/modern-6097781_1920.jpg');
+  width: 100%;
+  height: 400px;
+}
+.header{
+  margin-top: -240px;
+}
