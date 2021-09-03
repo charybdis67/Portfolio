@@ -1,60 +1,47 @@
 export const projects = [
   {
     title: "React Reserve",
-    subtitle: "MERN Stack",
+    subtitle: "DRESSY",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Dressy is designed to give you a freedom to try cloths virtually. Our team aimed to make possible shopping virtually with Covid-19 situations.",
+    image: "./rsz_s4.jpg",
+    link: "https://dress-y.github.io",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "React Reserve",
+    subtitle: "DRESSY",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Dressy is designed to give you a freedom to try cloths virtually. Our team aimed to make possible shopping virtually with Covid-19 situations.",
+    image: "./rsz_s4.jpg",
+    link: "https://dress-y.github.io",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "React Reserve",
+    subtitle: "DRESSY",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Dressy is designed to give you a freedom to try cloths virtually. Our team aimed to make possible shopping virtually with Covid-19 situations.",
+    image: "./rsz_s4.jpg",
+    link: "https://dress-y.github.io",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "React Reserve",
+    subtitle: "DRESSY",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Dressy is designed to give you a freedom to try cloths virtually. Our team aimed to make possible shopping virtually with Covid-19 situations.",
+    image: "./rsz_s4.jpg",
+    link: "https://dress-y.github.io",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "React Native",
+  "SQL",
+  "Java",
+  "C++",
 ];
+
+export const percent = ["30%", "50%", "30%", "60%", "80%", "50%"];
+
+export const colors = ["pink", "blue", "purple", "red", "green", "yellow"];
